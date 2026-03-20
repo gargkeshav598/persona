@@ -25,6 +25,9 @@
 
 ## 🛠️ Architecture & Tech Stack
 
+<img width="1061" height="673" alt="Screenshot 2026-03-20 at 4 42 08 PM" src="https://github.com/user-attachments/assets/e4c4064a-07e6-44e7-bf29-d274e3d23694" />
+
+
 | Component | Technology | Purpose |
 | :--- | :--- | :--- |
 | **Backend** | Python, FastAPI | High-performance API routing and async task management. |
