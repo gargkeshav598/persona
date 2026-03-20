@@ -1,0 +1,10 @@
+# Environments
+.env
+venv/
+__pycache__/
+
+# Browser Session States
+*_state.json
+
+# DB
+*.sqlite3
