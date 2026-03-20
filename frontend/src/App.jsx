@@ -12,7 +12,7 @@ const DEFAULT_API_BASE = import.meta.env.VITE_API_BASE_URL || "http://localhost:
 const SUGGESTIONS = [
   "Summarise their career in 3 bullets",
   "What are their strongest technical skills?",
-  "Which companies has she worked at?",
+  "Which companies have they worked at?",
   "What did they study and where?",
   "Is this person a good fit for a senior role?",
 ];
