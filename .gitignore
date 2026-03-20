@@ -1,6 +1,7 @@
 # Environments
 .env
 venv/
+env/
 __pycache__/
 
 # Browser Session States
@@ -8,3 +9,7 @@ __pycache__/
 
 # DB
 *.sqlite3
+
+#mac os files
+
+.DS_Store
